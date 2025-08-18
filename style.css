@@ -52,3 +52,8 @@
         .nav-link:hover::after {
             width: 100%;
         }
+        .img-professora {
+            width: 400px;
+            height: 500px;
+            object-fit: cover; 
+          }
