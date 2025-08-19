@@ -5,9 +5,10 @@
             --yellow-spain: #F1BF00;
         }
         
-        body {
+        html, body {
             font-family: 'Raleway', sans-serif;
             scroll-behavior: smooth;
+            overflow-x: hidden;
         }
         
         h1, h2, h3 {
