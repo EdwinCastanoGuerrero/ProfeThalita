@@ -1,5 +1,5 @@
-Profe Thalita — Site institucional
-Pequeno site estático para apresentação das aulas e contato da Profe Thalita.
+## Site institucional
+Pequeno site estático para apresentação das aulas e contato da Profe 
 
 Arquivos principais:
 
